@@ -1,0 +1,13 @@
+1 7 aes_pkg 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 131072 0 540 0
+1 20 keyExpansion_sv_unit 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 131072 0 0
+1 16 subBytes_sv_unit 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 131072 0 0
+1 14 mixCol_sv_unit 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 131072 0 0
+1 12 keyExpansion 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 131072 131072 196 0
+1 11 addRoundKey 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 0 308 0
+1 8 subBytes 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 131072 236 0
+1 8 shiftRow 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 0 84 0
+1 6 mixCol 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 131072 357 0
+1 8 aesRound 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 0 1007 0
+1 13 aesFinalRound 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 0 0 646 0
+1 3 AES 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 131072 0 10332 0
+1 6 tb_AES 4 fast 66 /home/kloub/Desktop/PersonalProject/AES/simulation/questa/rtl_work 0 0 131072 0 10568 0

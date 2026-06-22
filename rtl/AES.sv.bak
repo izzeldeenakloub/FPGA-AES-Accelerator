@@ -1,0 +1,7 @@
+module AES(
+	input  logic[7:0] arrayIn  [0:3][0:3],
+   output logic[7:0] arrayOut [0:3][0:3]
+);
+
+
+endmodule

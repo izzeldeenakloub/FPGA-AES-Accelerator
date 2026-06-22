@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/*.qpf": true,
+    "**/*.qsf": true,
+    "**/*.rpt": true,
+    "**/*.bak": true,
+    "**/*.summary": true,
+    "**/*.done": true,
+    "**/db": true,
+    "**/incremental_db": true,
+    "**/output_files": true,
+    "**/simulation": true,
+    "**/verilog_libs": true,
+    "**/work": true,
+    "**/rtl_work": true
+  }
+}
